@@ -10,6 +10,7 @@ This is a backend system for an assignment submission portal that allows **Users
 - bcryptjs for password hashing
 
 ## Endpoints
+- **GET /test** : Check if the server is live or not
 
 ### User Endpoints
 - **POST /register**: Register a new user
